@@ -1,0 +1,11 @@
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.AssemblyReference.cache
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.cache
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
